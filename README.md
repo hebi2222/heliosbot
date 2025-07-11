@@ -544,7 +544,7 @@ Made with 💎, ☀️ and lots of ☕ by **hebi**
 
 **🗄️ Powered by SQLite - Fast, Reliable, Zero Dependencies! 🚀**
 
-</div>Follow me](https://img.shields.io/github/followers/hebi?style=social)](https://github.com/hebi2222)
+</div>Follow meơ(https://img.shields.io/github/followers/hebi?style=social)](https://github.com/hebi2222)
 
 Made with 💎 and lots of ☕ by **hebi**
 
